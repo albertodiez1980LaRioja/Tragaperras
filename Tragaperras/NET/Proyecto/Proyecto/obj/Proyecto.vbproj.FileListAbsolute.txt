@@ -1,0 +1,63 @@
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Agregar_modelo_maquina.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.insertar_albaran.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Agregar_modelo_maquina.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.insertar_albaran.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.maquinas_existentes.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.nueva_comunidad.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.bares.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.empresa.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.bares.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.empresa.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.maquinas_existentes.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.nueva_comunidad.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.traslados.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.traslados.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.trabajadores.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.albaranes.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.albaranes.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.trabajadores.resources
+H:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Hoja_IVA.resources
+E:\curso\diseño\mis ejercicios\proyecto\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Hoja_IVA.resources
+O:\curso\diseño\mis ejercicios\Proyecto_enviar\NET\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+O:\curso\diseño\mis ejercicios\Proyecto_enviar\NET\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+O:\curso\diseño\mis ejercicios\Proyecto_enviar\NET\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Agregar_modelo_maquina.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.albaranes.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.bares.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.empresa.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Hoja_IVA.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.insertar_albaran.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.maquinas_existentes.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.nueva_comunidad.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.trabajadores.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.traslados.resources
+G:\PROYECTOS\NET\Tragaperras\NET\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache

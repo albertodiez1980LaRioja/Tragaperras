@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DC5B813-7364-4E73-A237-3BE68E76AB12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregar_modelo_maquina.Designer.vb">
+      <DependentUpon>Agregar_modelo_maquina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar_modelo_maquina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="albaranes.Designer.vb">
+      <DependentUpon>albaranes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="albaranes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bares.Designer.vb">
+      <DependentUpon>bares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clase_datos.vb" />
+    <Compile Include="empresa.Designer.vb">
+      <DependentUpon>empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoja_IVA.Designer.vb">
+      <DependentUpon>Hoja_IVA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hoja_IVA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertar_albaran.Designer.vb">
+      <DependentUpon>insertar_albaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="insertar_albaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maquinas_existentes.Designer.vb">
+      <DependentUpon>maquinas_existentes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="maquinas_existentes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="nueva_comunidad.Designer.vb">
+      <DependentUpon>nueva_comunidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nueva_comunidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trabajadores.Designer.vb">
+      <DependentUpon>trabajadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trabajadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="traslados.Designer.vb">
+      <DependentUpon>traslados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="traslados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Agregar_modelo_maquina.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Agregar_modelo_maquina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="albaranes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>albaranes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bares.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>bares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empresa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoja_IVA.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Hoja_IVA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertar_albaran.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>insertar_albaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maquinas_existentes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>maquinas_existentes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nueva_comunidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>nueva_comunidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trabajadores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>trabajadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="traslados.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>traslados.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\albaran 001.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
